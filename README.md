@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergio-sak
 - 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning C++, Data Stuctures and Git
+- 🌱 I’m currently learning C++, Stl Data Stuctures and Git
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me sakellagi@gmail.com
 
