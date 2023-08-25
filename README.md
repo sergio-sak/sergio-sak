@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning C++, Stl Data Stuctures and Git
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me sakellagi@gmail.com
+- 📫 How to reach me ssergioss@protonmail.com
 
 <!---
 sergio-sak/sergio-sak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
